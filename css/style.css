@@ -1,0 +1,10 @@
+body {
+    background-image: url(unsplash.jpg);
+    background-size: 100%;                      
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 500px;
+    color: white;   
+}
