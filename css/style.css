@@ -1,10 +1,16 @@
 body {
-    background-image: url(unsplash.jpg);
-    background-size: 100%;                      
+    background-image: url(cacti.jpg);
+    background-size: cover;                      
     background-repeat: no-repeat;
-    background-position: top;
-    font-size: 50px;
+    background-position: bottom;
+    font-size: 20px;
     text-align: center;
-    padding-top: 500px;
+    padding-bottom: 36%;
     color: black;   
+}
+
+.container-main{
+    width: 100%;
+    margin: 0 auto;
+
 }

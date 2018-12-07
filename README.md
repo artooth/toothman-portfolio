@@ -1,4 +1,4 @@
-#Alexandria R. Toothman
+# Alexandria R. Toothman
 
-##Personal Website/Portfolio
+## Personal Website/Portfolio
 
